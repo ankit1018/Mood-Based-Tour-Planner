@@ -34,7 +34,7 @@ Before running the pipeline:
 To execute the pipeline for a mood-based travel plan, run:
 
 ```
-python main.py
+Jupyter Notebook file
 ```
 
 The system will:
