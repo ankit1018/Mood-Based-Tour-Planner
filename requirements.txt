@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+nltk
+geopy
+googlemaps
+google-generativeai
+requests
+httpx  
+python-dotenv
+ipython
+
