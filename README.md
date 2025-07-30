@@ -31,14 +31,9 @@ Before running the pipeline:
 
 ### 3. Run the Complete Pipeline
 
-To execute the pipeline for a mood-based travel plan, run:
-
-```
-Jupyter Notebook file
-```
+To execute the pipeline for a mood-based travel plan, run the Jupyter Notebook file
 
 The system will:
-
 * Ask dynamic questions using Gemini API
 * Perform sentiment analysis using VADER
 * Map mood to destination
