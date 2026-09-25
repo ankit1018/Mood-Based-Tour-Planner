@@ -9,6 +9,7 @@ You need Python 3.10 or above to be installed beforehand.
 
 ## Step-by-Step Execution Instructions
 
+
 ### 1. Install Dependencies
 
 Install the necessary packages by running:
